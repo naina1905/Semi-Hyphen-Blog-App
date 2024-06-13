@@ -59,4 +59,31 @@ Verify that the response returns a 200 OK status code and a JSON response with a
 # Registration
 ![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/8248bb71-268a-4011-884a-259ebb051036)
 
+# Login
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/2db3ea1e-e685-4c22-8c2c-1db012928d0f)
+token is generated with expiration time
+
+# create Blog
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/b335824c-1778-4ed4-a36a-c527efcecca6)
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/03ba1a71-9b19-480d-bedd-59b1c488e07c)
+login token is entered in bearer authorization 
+
+# Update Blog
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/336980e3-01a1-4eb0-b2c7-3e766b2ca2f9)
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/f29159ce-dedc-4e95-b33d-acca31629f46)
+login token is entered in bearer authorization
+
+# Retrive by blog id
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/f5ed223c-6ffb-4146-983b-bb00a38d12d4)
+login token is entered in bearer authorization
+
+# Retrive all blog posts
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/ff950e5f-f116-4080-b009-cf7e08d14dc3)
+login token is entered in bearer authorization
+
+# Delete blog post
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/7f49f6a3-686c-44d9-8542-edc20e3efe8a)
+login token is entered in bearer authorization
+
+
 
