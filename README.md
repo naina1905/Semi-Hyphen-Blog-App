@@ -81,6 +81,14 @@ login token is entered in bearer authorization
 ![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/ff950e5f-f116-4080-b009-cf7e08d14dc3)
 login token is entered in bearer authorization
 
+# Mysql Workbench
+blog_posts table
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/8934dfa5-0c71-4f4f-a241-9809a1cdc575)
+
+users table
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/6f5947c6-ef5e-4f4f-a4eb-3acd08f7690e)
+
+
 # Delete blog post
 ![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/7f49f6a3-686c-44d9-8542-edc20e3efe8a)
 login token is entered in bearer authorization
