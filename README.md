@@ -56,3 +56,7 @@ Send a DELETE request to /blog-posts/:id with the access token in the Authorizat
 Replace :id with the ID of an existing blog post.
 Verify that the response returns a 200 OK status code and a JSON response with a success message.
 
+# Registration
+![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/8248bb71-268a-4011-884a-259ebb051036)
+
+
