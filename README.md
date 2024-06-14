@@ -2,7 +2,7 @@
 used Nodejs, Mysql Workbench,jwt,bcryption. The application perform crud operations on blog posts
 
 # Important Files 
-1.connection.js:This file seems to be responsible for setting up the MySQL connection. You don't need to add the secret key code here
+1.connection.js:This file is responsible for setting up the MySQL connection.
 
 2.index.js:contains logic for api end points 
 POST /blog-posts: Create a new blog post.
@@ -34,27 +34,27 @@ Paste the access token obtained in Step 1 into the Token field.
 Create (POST)
 Send a POST request to /blog-posts with the access token in the Authorization header.
 In the request body, provide the required fields for creating a new blog post (e.g., title, content).
-Verify that the response returns a 201 Created status code and a JSON response with the newly created blog post.
+
 
 Read (GET)
 Send a GET request to /blog-posts with the access token in the Authorization header.
-Verify that the response returns a 200 OK status code and a JSON response with the list of blog posts.
+
 
 Read (GET) by ID
 Send a GET request to /blog-posts/:id with the access token in the Authorization header.
 Replace :id with the ID of an existing blog post.
-Verify that the response returns a 200 OK status code and a JSON response with the blog post details.
+
 
 Update (PUT)
 Send a PUT request to /blog-posts/:id with the access token in the Authorization header.
 Replace :id with the ID of an existing blog post.
 In the request body, provide the updated fields for the blog post (e.g., title, content).
-Verify that the response returns a 200 OK status code and a JSON response with the updated blog post.
+
 
 Delete (DELETE)
 Send a DELETE request to /blog-posts/:id with the access token in the Authorization header.
 Replace :id with the ID of an existing blog post.
-Verify that the response returns a 200 OK status code and a JSON response with a success message.
+
 
 # Registration
 ![image](https://github.com/naina1905/Semi-Hyphen-Blog-App/assets/149436885/8248bb71-268a-4011-884a-259ebb051036)
